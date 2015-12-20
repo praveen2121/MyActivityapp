@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Activity_int</string>
+
+
+    <string name="action_settings">Gestures</string>
+    <string-array name="actions">
+
+        <item>Do notthin...</item>
+    <item>Visit djmaza</item>
+    <item>call someone</item>
+<item>map of jaipur </item>
+        <item> take picture</item>
+        <item> edit contact</item>
+</string-array>
+    
+</resources>
